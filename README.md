@@ -19,7 +19,7 @@ Projeto Extra para a formação Fullstack da Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/my-cover-projeto01.jpg" width="100%">
+  <img alt="Projeto Explorer" src=".github/my-cover-projeto01.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ O Projeto 01 Extra é o website da Flutuar. Uma agencia de pacotes de viagens fi
 
 - [Acesse o projeto finalizado, online](https://rogeriolins.github.io/projeto01-extra)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-rogeriolins)
+- [Assistir aulas](https://www.rocketseat.com.br/formacao/fullstack?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-rogeriolins)
 
 ## 🔖 Layout
 
