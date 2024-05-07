@@ -40,7 +40,7 @@ O Projeto 01 Extra é o website da Flutuar. Uma agencia de pacotes de viagens fi
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto ao se matricular na formação.
 
 ## :memo: Licença
 
@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat) e codado por Rogerio Lins
+Feito com ♥ by Rocketseat e codado por Rogerio Lins :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
