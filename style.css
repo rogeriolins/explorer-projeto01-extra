@@ -1,0 +1,97 @@
+:root {
+  --color-background: #fff;
+  --color-highlight: #ee24ff;
+  --color-title: #3f3d56;
+  --color-paragrafy: #828282;
+  --color-line: #eceff2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+#hero {
+  width: 540px;
+  margin: auto;
+}
+
+#hero img {
+  margin-top: 64px;
+}
+
+#paragrafo1 {
+  margin-bottom: 32px;
+}
+
+#paragrafo2 {
+  margin-bottom: 64px;
+}
+
+h1 {
+  margin-top: 32px;
+  font-family: "Dosis", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  color: var(--color-title);
+}
+
+h1 span {
+  font-weight: bold;
+  color: var(--color-highlight);
+}
+
+p {
+  font-weight: normal;
+  font-size: 15px;
+  color: var(--color-paragrafy);
+}
+
+p span {
+  font-weight: bold;
+  color: var(--color-title);
+}
+
+#line {
+  margin: auto;
+  width: 391px;
+  border: 1px solid var(--color-line);
+}
+
+#line {
+  margin-bottom: 16px;
+}
+
+a {
+  font-weight: bold;
+  font-size: 15px;
+  text-decoration: none;
+  color: var(--color-title);
+}
+
+a:hover {
+  color: var(--color-highlight);
+}
+
+.me-42 {
+  margin-right: 42px;
+}
+
+#ondas {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  display: block;
+}
+
+@media (max-height: 740px) {
+  #ondas {
+    display: none;
+  }
+}
