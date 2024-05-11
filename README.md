@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto 01 Extra é o website da Flutuar. Uma agencia de pacotes de viagens fictício.
 
-- [Acesse o projeto finalizado, online](https://rogeriolins.github.io/projeto01-extra)
+- [Acesse o projeto finalizado, online](https://rogeriolins.github.io/explorer-projeto01-extra)
 
 - [Assistir aulas](https://www.rocketseat.com.br/formacao/fullstack?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-rogeriolins)
 
